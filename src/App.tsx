@@ -12,10 +12,8 @@ export function App() {
       <header className="flex flex-col items-center">
         <Logo />
 
-        <Heading size="lg" className="mt-4">
-  
+        <Heading size="lg" className="mt-4">  
         </Heading>
-
         <Text 
           size="lg"
           className="text-gray-400 mt-1"
